@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TopicView">
+        <attr name="leftWidth" format="integer"/>
+        <attr name="rightWidth" format="integer"/>
+    </declare-styleable>
+</resources>
